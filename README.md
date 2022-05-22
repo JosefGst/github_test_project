@@ -4,4 +4,8 @@
 2. test merge
 
 more modifications of another user
+
+
+mods of branch2
 made crazy modifications in branch1
+
